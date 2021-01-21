@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="Style/style.css">
+    <link rel="stylesheet" href="furkanardic.me/Style/style.css">
     <title>LiveLab | İzle , takip et, eğlen !</title>
 </head>
 <body>
